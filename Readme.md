@@ -1,9 +1,9 @@
 # AUTOMATIZAÇÃO DE TESTES - SENAINFO 2018
 ## Descrição
-Esse projeto exemplifica um cenário de teste.
+Projeto criado durante o minicurso de automação.
 
 ## Objetivo
-Validar o ambiente de desenvolvimento da automação.
+Exemplificar a forma de implementação de um cenários de teste automatizado.
 
 ### Como utilizar esse projeto
 Para ser possível executar este projeto, é necessário fazer clone do repositório e fazer a instalação das gem's necessárias.
@@ -18,5 +18,10 @@ Uma vez que já tenham sido instaladas as gem's é possível fazer a execução 
 
 Executar na raiz do repositório local através do terminal:
 ```sh
-$ cucumber -t @validar_acesso_site_senainfo
+$ cucumber -t @validar_login_loja
 ```
+
+## Desafio Proposto
+Baseando-se no exemplo passado, criar um cenário para preenchimento do formulário de cadastro na loja http://automationpractice.com/
+
+Estou à disposição para qualquer tipo de dúvida.
